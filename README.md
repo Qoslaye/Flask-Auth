@@ -14,5 +14,12 @@ This is a simple user authentication website built using Flask. It demonstrates 
 - **HTML**: For creating the user interface.
 - **Flask Flashing**: To provide feedback messages.
 
+   ---
+## 📸 Screenshot
+---
+<img width="928" alt="1" src="https://github.com/user-attachments/assets/db2e587e-2b05-43d6-be9e-0cc540abd473">
+<img width="926" alt="2" src="https://github.com/user-attachments/assets/48b0d195-d18e-45bd-ba36-dcf9b6fad698">
+<img width="926" alt="2" src="https://github.com/user-attachments/assets/0b7ce1e9-b525-44f5-9a35-30476859c512">
+
 
 
